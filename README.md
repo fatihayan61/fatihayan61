@@ -20,7 +20,7 @@
 
 
 ### I'm learning better
- - 👨‍💻 JavaScript, Dart, Flutter , Rust
+ - 👨‍💻 JavaScript, Dart, Flutter
 
 
 
